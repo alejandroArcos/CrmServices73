@@ -1,0 +1,12 @@
+Bundle-Name: CrmServices73
+Bundle-SymbolicName: com.tokio.crm.crmservices73
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.tokio.crm.crmservices73.constants,\
+	com.tokio.crm.crmservices73.Bean,\
+	com.tokio.crm.crmservices73.Constants,\
+	com.tokio.crm.crmservices73.Exeption,\
+	com.tokio.crm.crmservices73.Impl,\
+	com.tokio.crm.crmservices73.Interface,\
+	com.tokio.crm.crmservices73.Languaje,\
+	com.tokio.crm.crmservices73.Util
